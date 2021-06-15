@@ -7,3 +7,6 @@ A weekly data project aimed at the R ecosystem, more information is available [h
 
 ## Week 24: Fishing data
 ![alt text](https://github.com/TIvanDijk/TidyTuesday/blob/main/Week%2024/fishing.png "TidyTuesday Week 24: Fishing Data")
+
+## Week 25: #DuBoisChallenge tweets
+![alt text](https://github.com/TIvanDijk/TidyTuesday/blob/main/Week%2025/tweets.png "TidyTuesday Week 24: #DuBoisChallenge tweets")

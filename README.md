@@ -10,3 +10,6 @@ A weekly data project aimed at the R ecosystem, more information is available [h
 
 ## Week 25: #DuBoisChallenge tweets
 ![alt text](https://github.com/TIvanDijk/TidyTuesday/blob/main/Week%2025/tweet.png "TidyTuesday Week 25: #DuBoisChallenge tweets")
+
+## Week 26: #US City Parks
+![alt text](https://github.com/TIvanDijk/TidyTuesday/blob/main/Week%2026/parks.png "TidyTuesday Week 25: #US City Parks")
